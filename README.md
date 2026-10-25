@@ -21,4 +21,4 @@ A Doomdolls é uma loja virtual demonstrativa de bonecas colecionáveis. Para ut
 
 9. **Personalize seu perfil:** em **Perfil → Meus dados**, altere a foto e preencha os dados de contato e endereço. Clique em **Salvar alterações** para guardar as informações.
 
-**Observação:** o site é um projeto escolar. As compras, os pagamentos e o acompanhamento dos pedidos são simulados. Os dados ficam salvos apenas
+**Observação:** o site é um projeto escolar. As compras, os pagamentos e o acompanhamento dos pedidos são simulados.
