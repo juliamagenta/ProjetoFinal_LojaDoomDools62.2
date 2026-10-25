@@ -1,0 +1,624 @@
+{
+  "briar-beauty": [
+    {
+      "arquivo": "midia/briar-beauty-principal.webp",
+      "original": "briarbeauty.jpe",
+      "largura": 736,
+      "altura": 1308,
+      "sha256_original": "52e2dfb8f63978fc5b05b69fac03c6d9e9a636a7c493ba8384fb1f5756262ddc"
+    },
+    {
+      "arquivo": "midia/briar-beauty-vista-1.webp",
+      "original": "Close-up da boneca Briar Beauty-29.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "8dee0282de68d9a69831f0ffac712e71ea24b8029811176f4da5d967f98a6671"
+    },
+    {
+      "arquivo": "midia/briar-beauty-vista-2.webp",
+      "original": "Briar Beauty em pose de catálogo-30.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "3a9427fc62c0d2fd3680d777ea3b93a379c35d9324593f4d3c8f16fe13e0cd1e"
+    },
+    {
+      "arquivo": "midia/briar-beauty-vista-3.webp",
+      "original": "Briar Beauty em retrato de catálogo-31.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "211d64f73237c4c79331518cf759dc3d9405277352082f3bb497f6c15d8c10ff"
+    },
+    {
+      "arquivo": "midia/briar-beauty-vista-4.webp",
+      "original": "Briar Beauty em close de catálogo-32.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "d2d9bf550cf51cbaaaf0a9c13fb61f56d2735adad97dcf7ea8e768a1335b3e1a"
+    }
+  ],
+  "draculaura": [
+    {
+      "arquivo": "midia/draculaura-principal.webp",
+      "original": "draculaura.jpe",
+      "largura": 736,
+      "altura": 982,
+      "sha256_original": "ef3a072914d9d4ed51a7d9af646bacb658113aa79201a4435c2ba84b20866561"
+    },
+    {
+      "arquivo": "midia/draculaura-vista-1.webp",
+      "original": "Close-up da Draculaura em estúdio roxo-25.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "1ad2fc8ef7561350202470dc71be27e1e2d5b83724106e128437041fc1106321"
+    },
+    {
+      "arquivo": "midia/draculaura-vista-2.webp",
+      "original": "Detalhes do traje da Draculaura colecionável-26.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "267a945926ae0e87a1ec237720dc62773e08f50f9273c4829eff722afb44cf61"
+    },
+    {
+      "arquivo": "midia/draculaura-vista-3.webp",
+      "original": "Draculaura colecionável em retrato de estúdio-28.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "ac36dd4191bf53a9040031e6391957ef0a01fc3cbf9248dc21acdd1a6bdd66e0"
+    },
+    {
+      "arquivo": "midia/draculaura-vista-4.webp",
+      "original": "Draculaura Scary Sweet em pose lateral-27.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "172c2f9e92612bf118174e50aded7130b6887e25f6b4c5a453cc5f19805616db"
+    }
+  ],
+  "madeline-hatter": [
+    {
+      "arquivo": "midia/madeline-hatter-principal.webp",
+      "original": "Close-up da Maddie Hatter colecionável-17.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "4fbc10cb6f9b9318dbd3db363584b7286bc1c1651e20e939fa10bab721a9a970"
+    },
+    {
+      "arquivo": "midia/madeline-hatter-vista-1.webp",
+      "original": "Close do traje da Maddie Hatter-19.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "16e88d5f254d82d9958ee73e06ba5ec78ca9aafe35a927be348b9439c3f54340"
+    },
+    {
+      "arquivo": "midia/madeline-hatter-vista-2.webp",
+      "original": "Maddie Hatter em pose de catálogo-20.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "6750c4c1fbdfb251c628c2e2e8c28493c5a98c4d68ea222421ee59bfe5949fae"
+    },
+    {
+      "arquivo": "midia/madeline-hatter-vista-3.webp",
+      "original": "Maddie Hatter em três quartos-18.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "887b1e4d6690cb7a1f796efc533644d1ae03307a7c21b6ce111674588968c168"
+    }
+  ],
+  "bratz-cowgirl": [
+    {
+      "arquivo": "midia/bratz-cowgirl-principal.webp",
+      "original": "Boneca colecionável com xale e boné-2.png",
+      "largura": 900,
+      "altura": 1600,
+      "sha256_original": "8dc922b4a7ca1eddf2ac268afe868f8605849710a9dbca4a106aeeaa059aa41a"
+    },
+    {
+      "arquivo": "midia/bratz-cowgirl-vista-1.webp",
+      "original": "Boneca colecionável com xale paisley-4.png",
+      "largura": 900,
+      "altura": 1600,
+      "sha256_original": "527d08be9c4f876d21a4818e01ab40d385272f704c02619b2219c81e19c509b6"
+    },
+    {
+      "arquivo": "midia/bratz-cowgirl-vista-2.webp",
+      "original": "Boneca colecionável em perfil no fundo listrado-1.png",
+      "largura": 900,
+      "altura": 1600,
+      "sha256_original": "98615a6acd39c4aab456aa85fd8ef89356f664326c099b85877f4c84a7667579"
+    },
+    {
+      "arquivo": "midia/bratz-cowgirl-vista-3.webp",
+      "original": "Boneca fashion em pose de catálogo-3.png",
+      "largura": 900,
+      "altura": 1600,
+      "sha256_original": "bfdfc0698f099520780b1677a6957fa373ad065543a7df6c71ba54a9a4db1926"
+    }
+  ],
+  "blythe-noir": [
+    {
+      "arquivo": "midia/blythe-noir-principal.webp",
+      "original": "clawdeen wolf blythe doll by @sixneptunes.jpe",
+      "largura": 736,
+      "altura": 981,
+      "sha256_original": "a1d97247c9c60d907634533d11f7129f69624e02fb4968c846e7071d876d5517"
+    },
+    {
+      "arquivo": "midia/blythe-noir-vista-1.webp",
+      "original": "Boneca Clawdeen em vista três quartos-35.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "28a318d0043a2ed6c709051d894f116b6631b00216e85b7eaf12e51f9ff68abe"
+    },
+    {
+      "arquivo": "midia/blythe-noir-vista-2.webp",
+      "original": "Detalhes da boneca Clawdeen Wolf-34.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "6c8632783924f5ca4a939620dd7e6eda3c88d0bfc200ace5bc8ada6d269f882c"
+    },
+    {
+      "arquivo": "midia/blythe-noir-vista-3.webp",
+      "original": "Retrato de catálogo da boneca Clawdeen Wolf-36.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "f212784ae82b358d7a8246dfc9efc52a0301286aaefd33ef4f9281ae1af29c7f"
+    },
+    {
+      "arquivo": "midia/blythe-noir-vista-4.webp",
+      "original": "Close-up da boneca Clawdeen Wolf-33.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "ce93e2925e0ea8700e681ee9d3c424665c4a5b7482be7c26db235b8bb6fed503"
+    }
+  ],
+  "barbie-festa": [
+    {
+      "arquivo": "midia/barbie-festa-principal.webp",
+      "original": "barbie.jpe",
+      "largura": 720,
+      "altura": 900,
+      "sha256_original": "3c0af70e3fda9e3438822e6e3a37a1ab0374b2b8f46c93facaa53b7940d2c38d"
+    },
+    {
+      "arquivo": "midia/barbie-festa-vista-1.webp",
+      "original": "Boneca Barbie em vestido rosa-fúcsia-23.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "1ac959ba52dcf8a4d69619b5f034dea604a8a9dffbb73714bb16d86a7576080d"
+    },
+    {
+      "arquivo": "midia/barbie-festa-vista-2.webp",
+      "original": "Boneca Barbie rosa em close-up-21.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "4f27489a8e15a7b0dc1c34d03d3271543b045af6f4e75e24ac8b1e5b3340594d"
+    },
+    {
+      "arquivo": "midia/barbie-festa-vista-3.webp",
+      "original": "Boneca Barbie rosa em retrato três quartos-24.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "de7e7541ba39e4d3f37685af0d789e1f8192de3d0ca6b0ce6b05cb3b4c8fb3e0"
+    },
+    {
+      "arquivo": "midia/barbie-festa-vista-4.webp",
+      "original": "Close do traje fúcsia da Barbie-22.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "494ce3f6b019eabef55892a9366aac55b6a68436db045bdf2393c8949c04809a"
+    }
+  ],
+  "hello-kitty-lyla": [
+    {
+      "arquivo": "midia/hello-kitty-lyla-principal.webp",
+      "original": "Instagram.jpe",
+      "largura": 640,
+      "altura": 798,
+      "sha256_original": "198dd973d92879d95aeb9c99d7da93daf81133b3b1f5e04a40040ff538baf743"
+    },
+    {
+      "arquivo": "midia/hello-kitty-lyla-vista-1.webp",
+      "original": "Close da boneca Hello Kitty-4.png",
+      "largura": 1122,
+      "altura": 1402,
+      "sha256_original": "5fef1f93a60f61f703bf8b4f6a3bf97224d4a1e4631457088cdb2e428d096a9d"
+    },
+    {
+      "arquivo": "midia/hello-kitty-lyla-vista-2.webp",
+      "original": "Boneca Hello Kitty em perfil lateral-11.png",
+      "largura": 1122,
+      "altura": 1402,
+      "sha256_original": "d2f8ef2d8a0dae799a3bf2a561ea9f7121e348a44a035d6ec429bed17fc803f5"
+    },
+    {
+      "arquivo": "midia/hello-kitty-lyla-vista-3.webp",
+      "original": "Detalhes do look Hello Kitty-12.png",
+      "largura": 1122,
+      "altura": 1402,
+      "sha256_original": "16bad6aa65404cef45adf15f21f948655cf2af163755840202c2dbafbbb37ad4"
+    }
+  ],
+  "hello-kitty-caroline": [
+    {
+      "arquivo": "midia/hello-kitty-caroline-principal.webp",
+      "original": "Boneca fashionista em rua urbana desfocada.png",
+      "largura": 1123,
+      "altura": 1401,
+      "sha256_original": "72a680fe57eb3801a4109a2481ca9e0f8e7188ed1713a93f9c3500a8daa0e77f"
+    },
+    {
+      "arquivo": "midia/hello-kitty-caroline-vista-1.webp",
+      "original": "Close da boneca Hello Kitty-3.png",
+      "largura": 1122,
+      "altura": 1402,
+      "sha256_original": "b60ad190cc2dff4bbf6f90d0e9dab46bf19b80a0793358aa55a77fb63c2e9ba6"
+    },
+    {
+      "arquivo": "midia/hello-kitty-caroline-vista-2.webp",
+      "original": "Boneca Hello Kitty colecionável em vista lateral-10.png",
+      "largura": 1122,
+      "altura": 1402,
+      "sha256_original": "9159ea45228448c238bc6785ff40c0eb4ac74136070c5b0645dc802754f6dd1f"
+    },
+    {
+      "arquivo": "midia/hello-kitty-caroline-vista-3.webp",
+      "original": "Look e bolsa Hello Kitty em detalhe-9.png",
+      "largura": 1122,
+      "altura": 1402,
+      "sha256_original": "f107271a549691d23ac7db537f79142372550970e32f1877a05afde7a0d91867"
+    }
+  ],
+  "hello-kitty-tiffany": [
+    {
+      "arquivo": "midia/hello-kitty-tiffany-principal.webp",
+      "original": "Boneca Hello Kitty na Rua.png",
+      "largura": 1122,
+      "altura": 1402,
+      "sha256_original": "45e9ae2a880d9eaf311e4afcd88b72ee7a2de9cc7ac964c46a1f6e19fe540ab6"
+    },
+    {
+      "arquivo": "midia/hello-kitty-tiffany-vista-1.webp",
+      "original": "Close da boneca fashion rosa-2.png",
+      "largura": 1122,
+      "altura": 1402,
+      "sha256_original": "32b53665709a55938e34df2d7b2fdef509ccab09ffd13f74677a256ba634a502"
+    },
+    {
+      "arquivo": "midia/hello-kitty-tiffany-vista-2.webp",
+      "original": "Boneca Hello Kitty em pose lateral-7.png",
+      "largura": 1122,
+      "altura": 1402,
+      "sha256_original": "f7d8cc62c157b56387ee95580961b81d9ea96c57da06e4314b6b34dbdfd44a73"
+    },
+    {
+      "arquivo": "midia/hello-kitty-tiffany-vista-3.webp",
+      "original": "Detalhes do look e acessórios da boneca-8.png",
+      "largura": 1122,
+      "altura": 1402,
+      "sha256_original": "2524e884986b2dbf75bc240abe4f0e8b68e7d8576d693566610217eb978a6091"
+    }
+  ],
+  "hello-kitty-sammy": [
+    {
+      "arquivo": "midia/hello-kitty-sammy-principal.webp",
+      "original": "Boneca Hello Kitty com cabelo branco.png",
+      "largura": 1122,
+      "altura": 1402,
+      "sha256_original": "b035e8913ed5a63fb626b8df697810850cd1c8084fb45d9801a4d8fa3e60e5ab"
+    },
+    {
+      "arquivo": "midia/hello-kitty-sammy-vista-1.webp",
+      "original": "Close-up da boneca Hello Kitty-1.png",
+      "largura": 1122,
+      "altura": 1402,
+      "sha256_original": "16ebb1010ec404065318e4e0680836fcc2db36487860a6cb1903355134fa5e58"
+    },
+    {
+      "arquivo": "midia/hello-kitty-sammy-vista-2.webp",
+      "original": "Boneca Hello Kitty em pose lateral-5.png",
+      "largura": 1122,
+      "altura": 1402,
+      "sha256_original": "8beeac7d7381ded370268a390723e6c553981acbfeb3f15707f5fcfba2ef6279"
+    },
+    {
+      "arquivo": "midia/hello-kitty-sammy-vista-3.webp",
+      "original": "Boneca fashion com bolsa Hello Kitty-6.png",
+      "largura": 1122,
+      "altura": 1402,
+      "sha256_original": "c6542538b6d431f5e73d621bdafd182d7e74e0bf6d83e56c4ca12b10ad9e0d47"
+    }
+  ],
+  "blythe-cabelo-preto": [
+    {
+      "arquivo": "midia/blythe-cabelo-preto-principal.webp",
+      "original": "blythe #blythe #blythecustom #blythedoll.jpe",
+      "largura": 736,
+      "altura": 981,
+      "sha256_original": "73325c7c62e75ecabf96607986d35dc69b5cc9586b17cdfd906c333aad0dd32a"
+    },
+    {
+      "arquivo": "midia/blythe-cabelo-preto-vista-1.webp",
+      "original": "Blythe de preto em fundo listrado-2.png",
+      "largura": 900,
+      "altura": 1600,
+      "sha256_original": "e7b9a2182ef460bc5db9f8a62fef5feca97277c668ebc39b3636bf923a997082"
+    },
+    {
+      "arquivo": "midia/blythe-cabelo-preto-vista-2.webp",
+      "original": "Blythe de preto em fundo listrado-4.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "9b9080bc4c4908e744f8c004aeb6648647448ddda1abfc3c4f623d13846a36ad"
+    },
+    {
+      "arquivo": "midia/blythe-cabelo-preto-vista-3.webp",
+      "original": "Blythe de preto no fundo listrado-3.png",
+      "largura": 900,
+      "altura": 1600,
+      "sha256_original": "3ae58c99b48b2c05fd3add79e060d0481a159c320bbeb8757f72bd076939af91"
+    },
+    {
+      "arquivo": "midia/blythe-cabelo-preto-vista-4.webp",
+      "original": "Boneca de preto sem acessório extra-6.png",
+      "largura": 1226,
+      "altura": 1283,
+      "sha256_original": "686ab62b6f2aa3489466b666d7214bf2968d8c8e77106bda4178e4cd2c771261"
+    },
+    {
+      "arquivo": "midia/blythe-cabelo-preto-vista-5.webp",
+      "original": "Boneca Blythe com cachos pretos-1.png",
+      "largura": 1226,
+      "altura": 1283,
+      "sha256_original": "0177a35ddc5c14b69f411510a8b088acb5be2a2a1f8d27b9cfc9d6db91deb509"
+    },
+    {
+      "arquivo": "midia/blythe-cabelo-preto-vista-6.webp",
+      "original": "Boneca Blythe de cachos pretos-5.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "94612cea2b2861fdaf76c0cd2c6fce62f8ce41150e8e616b1af328de7699c996"
+    },
+    {
+      "arquivo": "midia/blythe-cabelo-preto-vista-7.webp",
+      "original": "Boneca Blythe de preto com Mary Janes-7.png",
+      "largura": 900,
+      "altura": 1600,
+      "sha256_original": "5b602bdd6505164a718268957b52576b5b44532cca9b6e618ebc9a634c4cc672"
+    }
+  ],
+  "lagoona-blue": [
+    {
+      "arquivo": "midia/lagoona-blue-principal.webp",
+      "original": "Boneca colecionável com cachos dourados-7.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "945c95b85b06f41fbb5665024a868252ab02435d6e341e50474ba2765f6f4da0"
+    },
+    {
+      "arquivo": "midia/lagoona-blue-vista-1.webp",
+      "original": "Boneca colecionável restaurada em alta definiç╞o-1.png",
+      "largura": 1219,
+      "altura": 1290,
+      "sha256_original": "aa9cad213694a114dff03622df44c1706169fe91b0a9e803169bb5da3dbdf584"
+    },
+    {
+      "arquivo": "midia/lagoona-blue-vista-2.webp",
+      "original": "Boneca de cachos dourados com corpete vermelho-8.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "2d6756ab4d941a79dbba3fa083df5a98534dea753f543f7b1f6b548b363ef43c"
+    },
+    {
+      "arquivo": "midia/lagoona-blue-vista-3.webp",
+      "original": "Boneca de cachos dourados e corsete vermelho-9.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "d0674903a19ee96940937673d4e3f7d12e05679b37faa6204d4fc53db1885640"
+    },
+    {
+      "arquivo": "midia/lagoona-blue-vista-4.webp",
+      "original": "Boneca colecionável de cachos dourados-10.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "9b02d06ad2fdd6ebf50a7d71fae17d1313b01df77460963a3ed84422a9bdf31f"
+    }
+  ],
+  "raven-queen": [
+    {
+      "arquivo": "midia/raven-queen-principal.webp",
+      "original": "Boneca colecionável de visual lilás e preto-3.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "61b39ad6c39a0e372d938630cd621e4e70f8e91385595a65107a5b47a02a2dd3"
+    },
+    {
+      "arquivo": "midia/raven-queen-vista-1.webp",
+      "original": "Boneca colecionável com olhos roxos-2.png",
+      "largura": 1224,
+      "altura": 1285,
+      "sha256_original": "d398b5e66ace6bfec679101bab49a027e35c26b66638b68aa0eb2490ee24320d"
+    },
+    {
+      "arquivo": "midia/raven-queen-vista-2.webp",
+      "original": "Boneca colecionável roxa em pose lateral-5.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "e45201ccb60fb8d73c8ab138620087123729d44ede794d39927cd29fe65ac44b"
+    },
+    {
+      "arquivo": "midia/raven-queen-vista-3.webp",
+      "original": "Boneca colecionável com olhos roxos-6.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "49a09cc2909720934e044630a5116429dfa58e7bbf1f8fdaf0db8132b1e49d2b"
+    },
+    {
+      "arquivo": "midia/raven-queen-vista-4.webp",
+      "original": "Boneca colecionável gótica em três quartos-4.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "c6095f023de4087bd00acc36a3166c430b95c7b8c18fe8817d3ab67a4d14220f"
+    }
+  ],
+  "bratz-fada-pop": [
+    {
+      "arquivo": "midia/bratz-fada-pop-principal.webp",
+      "original": "Fada Bratz em fundo listrado suave.png",
+      "largura": 900,
+      "altura": 1600,
+      "sha256_original": "06f87cfe9d8bfec2ecc3759f18fb25117c1e27563fe5a1771831da46beb90115"
+    },
+    {
+      "arquivo": "midia/bratz-fada-pop-vista-1.webp",
+      "original": "Boneca fada Bratz em três quartos-16.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "75ecef6a1c9d05f8d587641cd1d7a0a01bb0d6c4a3c0da5db805cfdb34395e00"
+    },
+    {
+      "arquivo": "midia/bratz-fada-pop-vista-2.webp",
+      "original": "Detalhes da boneca fada Bratz-13.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "eda3998000e5fa1df8d53e11749fc0323c683b4755710d7ca315469fae165cc0"
+    },
+    {
+      "arquivo": "midia/bratz-fada-pop-vista-3.webp",
+      "original": "Retrato de catálogo da fada Bratz-15.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "7637dd4645011e2370a75973942fba5d25214eb6d9c77ef2173b4dde65889bd1"
+    },
+    {
+      "arquivo": "midia/bratz-fada-pop-vista-4.webp",
+      "original": "Close-up da boneca fada Bratz colecionável-14.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "0a9da96a6ffe085d72b64d04176c894bc6046e28a5db46aa5532fd42c198efaa"
+    }
+  ],
+  "barbie-bichop": [
+    {
+      "arquivo": "midia/barbie-bichop-principal.webp",
+      "original": "Barbie loira em fundo listrado elegante.png",
+      "largura": 998,
+      "altura": 1576,
+      "sha256_original": "2e5a8dda7ad15f1184d66c74e0dc3b3b976ad9face1e4fc62ccf96713b6929a5"
+    },
+    {
+      "arquivo": "midia/barbie-bichop-vista-1.webp",
+      "original": "Barbie colecionável em traje romântico-3.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "47a8c4194fb9f778b08562d6b8e5908eac32b07dbd9118f240c5dd2b1af1801e"
+    },
+    {
+      "arquivo": "midia/barbie-bichop-vista-2.webp",
+      "original": "Barbie colecionável em vista três quartos-4.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "bb3baae7e180eca05e197ad77dabae44753c43884185ac4148a258335b54ef26"
+    },
+    {
+      "arquivo": "midia/barbie-bichop-vista-3.webp",
+      "original": "Close da boneca Barbie colecionável-1.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "cded914a60838165cb371a8e0a6892d420c4531adb44821a92d6642035c86d54"
+    },
+    {
+      "arquivo": "midia/barbie-bichop-vista-4.webp",
+      "original": "Detalhes do vestido da boneca colecionável-2.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "a6b7375200b2b55850cb57c186e4363e9e6328635c5b340e5657fd6476d853b7"
+    }
+  ],
+  "blythe-castanha": [
+    {
+      "arquivo": "midia/blythe-castanha-principal.webp",
+      "original": "Boneca Blythe em fundo listrado elegante.png",
+      "largura": 900,
+      "altura": 1600,
+      "sha256_original": "37688bdedb1bbbab25f7c74fab06b6ee424818b07c1e26054e9e4b0727fbdc4a"
+    },
+    {
+      "arquivo": "midia/blythe-castanha-vista-1.webp",
+      "original": "Boneca Blythe em retrato de catálogo-6.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "fc9aabd034891132aa248cd99669424f3ecd983734f11b6196f7d7ccd54477a6"
+    },
+    {
+      "arquivo": "midia/blythe-castanha-vista-2.webp",
+      "original": "Boneca Blythe em vista de três quartos-8.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "ec8442f7ccb0271c267ead3072d8c80d56ae4f8365f89f0c06365494e1bc7f77"
+    },
+    {
+      "arquivo": "midia/blythe-castanha-vista-3.webp",
+      "original": "Boneca Blythe em close de catálogo-7.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "de9d4bf1be18de2ea980508c95696aba050d978b023ad2777d616d170d026105"
+    },
+    {
+      "arquivo": "midia/blythe-castanha-vista-4.webp",
+      "original": "Close da Blythe com presilha de coraç╞o-5.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "265e3eed28b2a67c9d22d3cca055a7fe29490750902899732036fa353e2cf677"
+    }
+  ],
+  "frankie-stein": [
+    {
+      "arquivo": "midia/frankie-stein-principal.webp",
+      "original": "Boneca Frankie Stein em fundo listrado.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "3cc4efc87f392085d6c9f6fcb97550618cd845cece6eeac0ae74afccd1347394"
+    },
+    {
+      "arquivo": "midia/frankie-stein-vista-1.webp",
+      "original": "Boneca Frankie Stein em três quartos-11.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "6ca749b9ca2d61ef5cda612c4a10158098846ca61728b4a4ee43dd44bf54ec1d"
+    },
+    {
+      "arquivo": "midia/frankie-stein-vista-2.webp",
+      "original": "Close da boneca Frankie Stein-9.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "b1e52eeea49efc00150f5e0cf63a243947a46688b6e02227588e111c83de72e4"
+    },
+    {
+      "arquivo": "midia/frankie-stein-vista-3.webp",
+      "original": "Close do traje xadrez da Frankie Stein-10.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "1a4a5e8aff6416c46e3d079e24fb63f6d6814aa37d8070a5d5eec4f7a93474c1"
+    },
+    {
+      "arquivo": "midia/frankie-stein-vista-4.webp",
+      "original": "Frankie Stein em retrato de catálogo-12.png",
+      "largura": 1086,
+      "altura": 1448,
+      "sha256_original": "9287515d828d683f2b9e17ee674a9fabcd19752466ed89f9d7c0abc03e95aa5e"
+    }
+  ],
+  "banner-mulher-ovelha": {
+    "arquivo": "midia/banner-mulher-ovelha.webp",
+    "original": "Mulher gótica abraça ovelha de carv╞o.png",
+    "largura": 1600,
+    "altura": 800,
+    "sha256_original": "ea713958d6c9e5cfd65a817a3a2963f567b165e97cfd70236ac8f7df9b276c46"
+  },
+  "banner-novidades": {
+    "arquivo": "midia/banner-novidades.webp",
+    "original": "Captura de tela 2026-10-25 120402.png",
+    "largura": 975,
+    "altura": 182,
+    "sha256_original": "899f711aff07ad75cf22b7d1356e028b9cd10fad81b2d5a91b56b1d6145714b3"
+  }
+}

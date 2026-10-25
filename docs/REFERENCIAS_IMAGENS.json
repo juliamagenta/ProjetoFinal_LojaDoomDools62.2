@@ -1,0 +1,152 @@
+{
+  "hello-kitty-lyla": {
+    "arquivo_origem": "Captura de tela 2026-10-24 223439(1).png",
+    "viewport": [
+      29,
+      380,
+      128,
+      136
+    ],
+    "arquivo": "assets/images/referencias/hello-kitty-lyla.svg"
+  },
+  "hello-kitty-caroline": {
+    "arquivo_origem": "Captura de tela 2026-10-24 223406(1).png",
+    "viewport": [
+      620,
+      487,
+      82,
+      101
+    ],
+    "arquivo": "assets/images/referencias/hello-kitty-caroline.svg"
+  },
+  "hello-kitty-tiffany": {
+    "arquivo_origem": "Captura de tela 2026-10-24 223439(1).png",
+    "viewport": [
+      318,
+      380,
+      113,
+      136
+    ],
+    "arquivo": "assets/images/referencias/hello-kitty-tiffany.svg"
+  },
+  "hello-kitty-sammy": {
+    "arquivo_origem": "Captura de tela 2026-10-24 223406(1).png",
+    "viewport": [
+      836,
+      487,
+      82,
+      101
+    ],
+    "arquivo": "assets/images/referencias/hello-kitty-sammy.svg"
+  },
+  "blythe-noir": {
+    "arquivo_origem": "Captura de tela 2026-10-24 223406(1).png",
+    "viewport": [
+      569,
+      304,
+      77,
+      108
+    ],
+    "arquivo": "assets/images/referencias/blythe-noir.svg"
+  },
+  "lagoona-blue": {
+    "arquivo_origem": "Captura de tela 2026-10-24 223406(1).png",
+    "viewport": [
+      671,
+      304,
+      78,
+      108
+    ],
+    "arquivo": "assets/images/referencias/lagoona-blue.svg"
+  },
+  "raven-queen": {
+    "arquivo_origem": "Captura de tela 2026-10-24 223406(1).png",
+    "viewport": [
+      780,
+      304,
+      76,
+      108
+    ],
+    "arquivo": "assets/images/referencias/raven-queen.svg"
+  },
+  "bratz-olivia": {
+    "arquivo_origem": "Captura de tela 2026-10-24 223415(1).png",
+    "viewport": [
+      696,
+      622,
+      60,
+      74
+    ],
+    "arquivo": "assets/images/referencias/bratz-olivia.svg"
+  },
+  "bratz-fada-pop": {
+    "arquivo_origem": "Captura de tela 2026-10-24 223415(1).png",
+    "viewport": [
+      38,
+      622,
+      69,
+      84
+    ],
+    "arquivo": "assets/images/referencias/bratz-fada-pop.svg"
+  },
+  "barbie-bichop": {
+    "arquivo_origem": "Captura de tela 2026-10-24 223415(1).png",
+    "viewport": [
+      124,
+      622,
+      66,
+      84
+    ],
+    "arquivo": "assets/images/referencias/barbie-bichop.svg"
+  },
+  "blythe-castanha": {
+    "arquivo_origem": "Captura de tela 2026-10-24 223439(1).png",
+    "viewport": [
+      457,
+      380,
+      106,
+      136
+    ],
+    "arquivo": "assets/images/referencias/blythe-castanha.svg"
+  },
+  "frankie-stein": {
+    "arquivo_origem": "Captura de tela 2026-10-24 223439(1).png",
+    "viewport": [
+      179,
+      380,
+      119,
+      136
+    ],
+    "arquivo": "assets/images/referencias/frankie-stein.svg"
+  },
+  "capa-ofertas-original": {
+    "arquivo_origem": "Captura de tela 2026-10-24 223415(1).png",
+    "viewport": [
+      27,
+      519,
+      346,
+      61
+    ],
+    "arquivo": "assets/images/referencias/capa-ofertas-original.svg"
+  },
+  "capa-novidades-original": {
+    "arquivo_origem": "Captura de tela 2026-10-24 223415(1).png",
+    "viewport": [
+      417,
+      519,
+      353,
+      61
+    ],
+    "arquivo": "assets/images/referencias/capa-novidades-original.svg"
+  },
+  "poster-acesso-original": {
+    "arquivo_origem": "Captura de tela 2026-10-24 223406(1).png",
+    "viewport": [
+      24,
+      89,
+      224,
+      342
+    ],
+    "arquivo": "assets/images/referencias/poster-acesso-original.svg"
+  }
+}
